@@ -11,7 +11,7 @@ You can upgrade your account to higher plan from:
 3. Select Add-ons
 
   
-### **Step 1: Go to Manage Subscription**
+### **Step 1: Go to Manage Subscription***
 
   
 ![](/files/oVaJwPC.png)  

@@ -7,7 +7,7 @@ import os
 import markdownify
 import requests
 
-# cuidado ao usar o translate, pois pode ter correções manuais direto nos arquivos
+# cuidado ao ussar o translate, pois pode ter correções manuais direto nos arquivos
 def main(translate=False):
 
     filesurl = "https://docs.erpnext.com"
